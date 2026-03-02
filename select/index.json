@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "あいつら全員同窓会",
+  "base_track": "あいつら全員同窓会 (Live)",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-19T16:45:00.251786Z",
+  "createdAt": "2026-03-02T18:30:25.054934Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "あいつら全員同窓会",
       "artist": "ZUTOMAYO",
-      "has_synced": true,
-      "path": "select/01_あいつら全員同窓会_ZUTOMAYO.lrc"
+      "has_synced": false,
+      "path": "select/01_あいつら全員同窓会_ZUTOMAYO.txt"
     },
     {
       "id": "lrclib_2",
@@ -79,18 +79,18 @@
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "ずっと真夜中でいいのに。『あいつら全員同窓会』MV (ZUTOMAYO - Inside Joke)",
+      "title": "あいつら全員同窓会 - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/10_ずっと真夜中でいいのに。『あいつら全員同窓会』MV_(ZUTOMAYO_-_Inside_Joke)_ZUTOMAYO.lrc"
+      "path": "select/10_あいつら全員同窓会_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "あいつら全員同窓会 - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "title": "ずっと真夜中でいいのに。『あいつら全員同窓会』MV (ZUTOMAYO - Inside Joke)",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/11_あいつら全員同窓会_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+      "path": "select/11_ずっと真夜中でいいのに。『あいつら全員同窓会』MV_(ZUTOMAYO_-_Inside_Joke)_ZUTOMAYO.lrc"
     },
     {
       "id": "petitlyrics_1",
